@@ -1,0 +1,12 @@
+com.svprdga.torchlight.torch_light-jetified-window-java-1.0.0-beta04-0 /Users/sonnh/.gradle/caches/transforms-3/5a5a752a30ef8f927b89ee5d02868eb5/transformed/jetified-window-java-1.0.0-beta04/res
+com.svprdga.torchlight.torch_light-jetified-window-1.0.0-beta04-1 /Users/sonnh/.gradle/caches/transforms-3/86a1a9f6804c8fc691a553244f0de821/transformed/jetified-window-1.0.0-beta04/res
+com.svprdga.torchlight.torch_light-jetified-annotation-experimental-1.1.0-2 /Users/sonnh/.gradle/caches/transforms-3/9199ba66b232e9fc78c08871acc9a68c/transformed/jetified-annotation-experimental-1.1.0/res
+com.svprdga.torchlight.torch_light-core-1.6.0-3 /Users/sonnh/.gradle/caches/transforms-3/9df09c476a8966dff0ab2c589910f62f/transformed/core-1.6.0/res
+com.svprdga.torchlight.torch_light-main-4 /Users/sonnh/.pub-cache/hosted/pub.dev/torch_light-1.0.0/android/src/main/res
+com.svprdga.torchlight.torch_light-release-5 /Users/sonnh/.pub-cache/hosted/pub.dev/torch_light-1.0.0/android/src/release/res
+com.svprdga.torchlight.torch_light-pngs-6 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/torch_light/generated/res/pngs/release
+com.svprdga.torchlight.torch_light-resValues-7 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/torch_light/generated/res/resValues/release
+com.svprdga.torchlight.torch_light-rs-8 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/torch_light/generated/res/rs/release
+com.svprdga.torchlight.torch_light-mergeReleaseResources-9 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/torch_light/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.svprdga.torchlight.torch_light-mergeReleaseResources-10 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/torch_light/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.svprdga.torchlight.torch_light-merged_res-11 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/torch_light/intermediates/merged_res/release

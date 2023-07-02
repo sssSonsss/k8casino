@@ -1,0 +1,15 @@
+com.ryanheise.audio_session-jetified-window-java-1.0.0-beta04-0 /Users/sonnh/.gradle/caches/transforms-3/5a5a752a30ef8f927b89ee5d02868eb5/transformed/jetified-window-java-1.0.0-beta04/res
+com.ryanheise.audio_session-jetified-window-1.0.0-beta04-1 /Users/sonnh/.gradle/caches/transforms-3/86a1a9f6804c8fc691a553244f0de821/transformed/jetified-window-1.0.0-beta04/res
+com.ryanheise.audio_session-jetified-annotation-experimental-1.1.0-2 /Users/sonnh/.gradle/caches/transforms-3/9199ba66b232e9fc78c08871acc9a68c/transformed/jetified-annotation-experimental-1.1.0/res
+com.ryanheise.audio_session-core-1.6.0-3 /Users/sonnh/.gradle/caches/transforms-3/9df09c476a8966dff0ab2c589910f62f/transformed/core-1.6.0/res
+com.ryanheise.audio_session-jetified-media2-session-1.2.1-4 /Users/sonnh/.gradle/caches/transforms-3/a8beb36e4f33d0d085ca014bc038e3f5/transformed/jetified-media2-session-1.2.1/res
+com.ryanheise.audio_session-jetified-media2-common-1.2.1-5 /Users/sonnh/.gradle/caches/transforms-3/acd5d26e187611c7ad9bc085802150e5/transformed/jetified-media2-common-1.2.1/res
+com.ryanheise.audio_session-media-1.4.1-6 /Users/sonnh/.gradle/caches/transforms-3/c842e76b6a4e2e84997e8a0efcc9f885/transformed/media-1.4.1/res
+com.ryanheise.audio_session-main-7 /Users/sonnh/.pub-cache/hosted/pub.dev/audio_session-0.1.16/android/src/main/res
+com.ryanheise.audio_session-release-8 /Users/sonnh/.pub-cache/hosted/pub.dev/audio_session-0.1.16/android/src/release/res
+com.ryanheise.audio_session-pngs-9 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/audio_session/generated/res/pngs/release
+com.ryanheise.audio_session-resValues-10 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/audio_session/generated/res/resValues/release
+com.ryanheise.audio_session-rs-11 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/audio_session/generated/res/rs/release
+com.ryanheise.audio_session-mergeReleaseResources-12 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/audio_session/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.ryanheise.audio_session-mergeReleaseResources-13 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/audio_session/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.ryanheise.audio_session-merged_res-14 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/audio_session/intermediates/merged_res/release

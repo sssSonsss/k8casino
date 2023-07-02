@@ -1,0 +1,13 @@
+com.benjaminabel.vibration-jetified-window-java-1.0.0-beta04-0 /Users/sonnh/.gradle/caches/transforms-3/5a5a752a30ef8f927b89ee5d02868eb5/transformed/jetified-window-java-1.0.0-beta04/res
+com.benjaminabel.vibration-jetified-window-1.0.0-beta04-1 /Users/sonnh/.gradle/caches/transforms-3/86a1a9f6804c8fc691a553244f0de821/transformed/jetified-window-1.0.0-beta04/res
+com.benjaminabel.vibration-jetified-annotation-experimental-1.1.0-2 /Users/sonnh/.gradle/caches/transforms-3/9199ba66b232e9fc78c08871acc9a68c/transformed/jetified-annotation-experimental-1.1.0/res
+com.benjaminabel.vibration-core-1.6.0-3 /Users/sonnh/.gradle/caches/transforms-3/9df09c476a8966dff0ab2c589910f62f/transformed/core-1.6.0/res
+com.benjaminabel.vibration-main-4 /Users/sonnh/.pub-cache/hosted/pub.dev/vibration-1.8.1/android/src/main/res
+com.benjaminabel.vibration-release-5 /Users/sonnh/.pub-cache/hosted/pub.dev/vibration-1.8.1/android/src/release/res
+com.benjaminabel.vibration-packaged_res-6 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/device_info_plus/intermediates/packaged_res/release
+com.benjaminabel.vibration-pngs-7 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/vibration/generated/res/pngs/release
+com.benjaminabel.vibration-resValues-8 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/vibration/generated/res/resValues/release
+com.benjaminabel.vibration-rs-9 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/vibration/generated/res/rs/release
+com.benjaminabel.vibration-mergeReleaseResources-10 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/vibration/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.benjaminabel.vibration-mergeReleaseResources-11 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/vibration/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.benjaminabel.vibration-merged_res-12 /Users/sonnh/AndroidStudioProjects/K8TodoNote/build/vibration/intermediates/merged_res/release

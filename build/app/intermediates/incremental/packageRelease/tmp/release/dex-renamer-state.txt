@@ -1,0 +1,4 @@
+#Fri Jun 30 18:35:52 ICT 2023
+base.0=/Users/sonnh/AndroidStudioProjects/K8TodoNote/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439284288942",
+    "project_id": "k8todonote",
+    "storage_bucket": "k8todonote.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439284288942:android:54b8da2912db1dd0360c3f",
+        "android_client_info": {
+          "package_name": "com.example.k8todonote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439284288942-iqpjjd5s0mptac2m9jclennpm72utjmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-G4bfL1IsIyglYYibozSwhYw6-pO3pio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439284288942-iqpjjd5s0mptac2m9jclennpm72utjmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
