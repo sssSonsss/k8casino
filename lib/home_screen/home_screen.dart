@@ -24,11 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
     ),
   ];
 
-  void _onItemTapped(int index) {
-    setState(() {
-      _selectedIndex = index;
-    });
-  }
+
 
   @override
   Widget build(BuildContext context) {
@@ -71,32 +67,6 @@ class _HomeScreenState extends State<HomeScreen> {
           ),
         ),
       ),
-      // Container(
-      //   height: 60,
-      //   child: BottomNavigationBar(
-      //
-      //     backgroundColor: AppColor.grey,
-      //     items: const <BottomNavigationBarItem>[
-      //       BottomNavigationBarItem(
-      //         icon: Icon(
-      //           Icons.note_alt_outlined,
-      //         ),
-      //         label: '',
-      //       ),
-      //       BottomNavigationBarItem(
-      //         icon: Icon(
-      //           Icons.alarm,
-      //           // color: AppColor.white,
-      //         ),
-      //         label: '',
-      //       ),
-      //     ],
-      //     currentIndex: _selectedIndex,
-      //     unselectedItemColor: AppColor.grey1,
-      //     selectedItemColor: AppColor.yellow,
-      //     onTap: _onItemTapped,
-      //   ),
-      // ),
     );
   }
 }

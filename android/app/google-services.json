@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "439284288942",
-    "project_id": "k8todonote",
-    "storage_bucket": "k8todonote.appspot.com"
+    "project_number": "820468834359",
+    "project_id": "k8todolistk8",
+    "storage_bucket": "k8todolistk8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:439284288942:android:54b8da2912db1dd0360c3f",
+        "mobilesdk_app_id": "1:820468834359:android:cf2858f58d6edda782dfb2",
         "android_client_info": {
-          "package_name": "com.example.k8todonote"
+          "package_name": "com.k8.todo.note"
         }
       },
       "oauth_client": [
         {
-          "client_id": "439284288942-iqpjjd5s0mptac2m9jclennpm72utjmo.apps.googleusercontent.com",
+          "client_id": "820468834359-bhf9lmajvj199an42iamd9gct0viit4p.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA-G4bfL1IsIyglYYibozSwhYw6-pO3pio"
+          "current_key": "AIzaSyDI25SlMj9vtqGy0Qvft4H4Va9sWATxRPk"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "439284288942-iqpjjd5s0mptac2m9jclennpm72utjmo.apps.googleusercontent.com",
+              "client_id": "820468834359-bhf9lmajvj199an42iamd9gct0viit4p.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

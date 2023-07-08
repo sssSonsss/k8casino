@@ -44,40 +44,39 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC9Q67mNvVbvmir1qCjM-aiAF7f2fc1tYU',
-    appId: '1:439284288942:web:632172d64921f865360c3f',
-    messagingSenderId: '439284288942',
-    projectId: 'k8todonote',
-    authDomain: 'k8todonote.firebaseapp.com',
-    storageBucket: 'k8todonote.appspot.com',
-    measurementId: 'G-8Y3KQM8KG5',
+    apiKey: 'AIzaSyDPFqMRHQ-GYwFBuevCnLJZWYdM_lQJwjU',
+    appId: '1:820468834359:web:b2bf006710abf4b182dfb2',
+    messagingSenderId: '820468834359',
+    projectId: 'k8todolistk8',
+    authDomain: 'k8todolistk8.firebaseapp.com',
+    storageBucket: 'k8todolistk8.appspot.com',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA-G4bfL1IsIyglYYibozSwhYw6-pO3pio',
-    appId: '1:439284288942:android:54b8da2912db1dd0360c3f',
-    messagingSenderId: '439284288942',
-    projectId: 'k8todonote',
-    storageBucket: 'k8todonote.appspot.com',
+    apiKey: 'AIzaSyDI25SlMj9vtqGy0Qvft4H4Va9sWATxRPk',
+    appId: '1:820468834359:android:cf2858f58d6edda782dfb2',
+    messagingSenderId: '820468834359',
+    projectId: 'k8todolistk8',
+    storageBucket: 'k8todolistk8.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA7j5JZ29ztN89XBwK_BbKqVpKhkaWJPdE',
-    appId: '1:439284288942:ios:f8ad8d2602f2f55c360c3f',
-    messagingSenderId: '439284288942',
-    projectId: 'k8todonote',
-    storageBucket: 'k8todonote.appspot.com',
-    iosClientId: '439284288942-s0t2fqlk2poso4006nucqdos7b8bklub.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCA_mhFq4iRtyz2kyMQbVbTgFxqGSdkxIw',
+    appId: '1:820468834359:ios:acd288f780cc716682dfb2',
+    messagingSenderId: '820468834359',
+    projectId: 'k8todolistk8',
+    storageBucket: 'k8todolistk8.appspot.com',
+    iosClientId: '820468834359-ccbam0c612rc6to2hd30m5789079vaft.apps.googleusercontent.com',
     iosBundleId: 'com.example.k8todonote',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA7j5JZ29ztN89XBwK_BbKqVpKhkaWJPdE',
-    appId: '1:439284288942:ios:5b6def99ca0228a2360c3f',
-    messagingSenderId: '439284288942',
-    projectId: 'k8todonote',
-    storageBucket: 'k8todonote.appspot.com',
-    iosClientId: '439284288942-anad7noigitcdn0tfvojqoh41kegdgq9.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCA_mhFq4iRtyz2kyMQbVbTgFxqGSdkxIw',
+    appId: '1:820468834359:ios:4d4b70f4ae55801882dfb2',
+    messagingSenderId: '820468834359',
+    projectId: 'k8todolistk8',
+    storageBucket: 'k8todolistk8.appspot.com',
+    iosClientId: '820468834359-jv067fsrfnv69v5d7fdnb1hker798o14.apps.googleusercontent.com',
     iosBundleId: 'com.example.k8todonote.RunnerTests',
   );
 }

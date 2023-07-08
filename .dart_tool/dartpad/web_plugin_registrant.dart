@@ -10,7 +10,6 @@ import 'package:audio_session/audio_session_web.dart';
 import 'package:device_info_plus/src/device_info_plus_web.dart';
 import 'package:firebase_core_web/firebase_core_web.dart';
 import 'package:firebase_remote_config_web/firebase_remote_config_web.dart';
-import 'package:geolocator_web/geolocator_web.dart';
 import 'package:just_audio_web/just_audio_web.dart';
 import 'package:shared_preferences_web/shared_preferences_web.dart';
 import 'package:url_launcher_web/url_launcher_web.dart';
@@ -22,7 +21,6 @@ void registerPlugins([final Registrar? pluginRegistrar]) {
   DeviceInfoPlusWebPlugin.registerWith(registrar);
   FirebaseCoreWeb.registerWith(registrar);
   FirebaseRemoteConfigWeb.registerWith(registrar);
-  GeolocatorPlugin.registerWith(registrar);
   JustAudioPlugin.registerWith(registrar);
   SharedPreferencesPlugin.registerWith(registrar);
   UrlLauncherPlugin.registerWith(registrar);
