@@ -6,23 +6,40 @@ const keyIsActive = 'isActive';
 
 class StreamRemoteConfig {
   StreamController<bool> streamController = StreamController<bool>();
-  StreamSubscription? _streamSubscription;
+  // StreamSubscription? _streamSubscription;
   bool? isActive;
 
   Stream<bool> get isActiveRealtime => streamController.stream;
 
-  Future<FirebaseRemoteConfig> setUpRemotConfig() async {
-    final FirebaseRemoteConfig remoteConfig = await getInitRemote();
-    await remoteConfig.setConfigSettings(RemoteConfigSettings(
-      fetchTimeout: const Duration(minutes: 1),
-      minimumFetchInterval: const Duration(minutes: 5),
-    ));
-    _streamSubscription =
-        remoteConfig.onConfigUpdated.listen((RemoteConfigUpdate event) async {
-      await getInitRemote();
-      streamController.add(getRemoteConfig(event.updatedKeys.join(', ')));
-    });
-    return remoteConfig;
+  Future<void> setUpRemoteConfig() async {
+    final FirebaseRemoteConfig remoteConfig = FirebaseRemoteConfig.instance;
+
+    try {
+      await remoteConfig.setConfigSettings(
+        RemoteConfigSettings(
+          fetchTimeout: const Duration(minutes: 1),
+          minimumFetchInterval: const Duration(minutes: 5),
+        ),
+      );
+
+      await remoteConfig.fetchAndActivate();
+      // if (_streamSubscription != null) {
+      //   await _streamSubscription?.cancel();
+      //   _streamSubscription = null;
+      // }
+      // _streamSubscription = remoteConfig.onConfigUpdated.listen(
+      //   (RemoteConfigUpdate event) async {
+      //     await remoteConfig.activate();
+      //     streamController.add(getRemoteConfig(event.updatedKeys.join(', ')));
+      //   },
+      //   onError: (e) {
+      //     print('remote config error: ${e.toString()}');
+      //   },
+      // );
+    } catch (e) {
+      print('log firebase');
+      print(e.toString());
+    }
   }
 
   getRemoteConfig(String key) {
@@ -32,17 +49,8 @@ class StreamRemoteConfig {
     return result;
   }
 
-  Future<FirebaseRemoteConfig> getInitRemote() async {
-    final FirebaseRemoteConfig remoteConfig = FirebaseRemoteConfig.instance;
-
-    await remoteConfig.fetch();
-    await remoteConfig.activate();
-
-    return remoteConfig;
-  }
-
   void dispose() {
-    _streamSubscription?.cancel();
+    // _streamSubscription?.cancel();
     streamController.close();
   }
 }

@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
 
   @override
   void initState() {
-    stream.setUpRemotConfig();
+    stream.setUpRemoteConfig();
 
     print('---------isActive');
     print(isActive);
